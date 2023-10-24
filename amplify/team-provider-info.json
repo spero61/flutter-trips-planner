@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifytripsplanner6641f990": {}
+      },
+      "api": {
+        "amplifytripsplanner": {}
       }
     }
   }
